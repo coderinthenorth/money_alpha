@@ -1,3 +1,28 @@
+#Gold Coin Loot Table Generator + Mcstacker
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_nbt",
+          "tag": "{display:{Name:'{\"text\":\"Gold Coin\",\"color\":\"gold\",\"italic\":true}'},CustomModelData:17823421983,goldcoin:1b} 100"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+#Gold Coin Design
 {
 	"credit": "Made with Blockbench",
 	"textures": {
