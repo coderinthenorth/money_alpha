@@ -1,6 +1,6 @@
- {
-       "pack": {
-           "pack_format": 6,
-           "description": "A money data pack"
-       }
- }
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "A money data pack"
+  }
+}
