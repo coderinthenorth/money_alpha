@@ -13,7 +13,7 @@
       "functions": [
         {
           "function": "minecraft:set_nbt",
-          "tag": "{display:{Name:'{\"text\":\"Gold Coin\",\"color\":\"gold\",\"italic\":true}'},CustomModelData:123456,gold_coin:1b} 1"
+          "tag": "{display:{Name:'{\"text\":\"Gold Coin\",\"color\":\"gold\",\"italic\":true}'},custom_model_data:123456,gold_coin:1b} 1"
         }
       ]
     }
